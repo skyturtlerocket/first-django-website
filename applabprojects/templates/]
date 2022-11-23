@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: black;}
+p    {color: black;}
+</style>
+</head>
+<body>
+
+    <h1><center>App Lab Projects</center></h1>
+    <p><center>Here you will find games you can play that my friend and I have created, we will try to get a new game out every 1-2 months for you to play and update weekly. For now, you can now me as Creator 1 and my friend as Creator 2.
+</center></p>
+<h2>Game 1: Mega Man reclaims a fort </h2>
+<p>Created by: Creator 1</p>
+<p><a href="https://studio.code.org/projects/applab/HQJvv7A7_KKj8OaFfml92wkz1Wpigrpat1fMkHb2ZEo">Link to Mega Man reclaims a fort (beta version)</a></p>
+<p>In that game, a character must dodge flames and fight guards to reclaim a fort. There are 3 levels, and this is still in the beta version, as there are still improvements to be made.</p>
+<img src="https://i.ibb.co/KXp7sxG/Screenshot-from-2022-11-17-21-25-23.png" alt="Mega Man reclaims a fort image" width="314" height="512">
+<p>Last Updated: 11-18-2022</p>
+
+<h3>Game 2: Money Man Simulator</h3>
+<p>Created by: Creator 2</p>
+<p><a href="https://studio.code.org/projects/applab/E9pq_vuoQORcCRUpQhVqVMDZMsd6bq2GTNDjgF-8oVY">Link to Money Man Simulator (beta version)</a></p>
+<p>This is a money game {enter more stuff i didnt make this so i dont know what to put for description}</p>
+<img src="https://i.ibb.co/KXp7sxG/Screenshot-from-2022-11-17-21-25-23.png" alt="Money Man Simulator image" width="314" height="512"> 
+<p>Last Updated: 11-18-2022</p>
+
+</body>
+</html>
+
+
